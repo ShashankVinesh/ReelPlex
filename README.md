@@ -18,7 +18,7 @@ Download Instagram reels using a simple link.
 3. Returns downloadable video
 
 ## Screenshots
-![image alt] (https://github.com/ShashankVinesh/ReelPlex/blob/a37cc8b52bbd4cb86e5057f45087e749fa424c03/Screenshot%202026-03-26%20155011.png).
+![image alt] (https://github.com/ShashankVinesh/ReelPlex/blob/a37cc8b52bbd4cb86e5057f45087e749fa424c03/Screenshot%202026-03-26%20155011.png)
 
 ## Note
 API keys are removed for security.  
