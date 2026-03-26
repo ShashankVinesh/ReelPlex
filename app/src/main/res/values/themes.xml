@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.ReelPlex" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0A0A0A</item>
+        <item name="android:navigationBarColor">#1A1A1E</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorPrimary">#1E90FF</item>
+        <item name="colorPrimaryVariant">#1565C0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
